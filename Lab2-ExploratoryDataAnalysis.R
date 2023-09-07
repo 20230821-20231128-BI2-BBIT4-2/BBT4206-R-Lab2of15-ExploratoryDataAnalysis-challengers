@@ -25,7 +25,7 @@
 # Further reading:
 #   Summary: https://rstudio.github.io/renv/
 #   More detailed article: https://rstudio.github.io/renv/articles/renv.html
-
+test comm
 # Install renv:
 if (!is.element("renv", installed.packages()[, 1])) {
   install.packages("renv", dependencies = TRUE)
