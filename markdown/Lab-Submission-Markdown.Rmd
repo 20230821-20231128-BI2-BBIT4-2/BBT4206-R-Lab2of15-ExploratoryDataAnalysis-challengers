@@ -1,7 +1,7 @@
 ---
 title: "Business Intelligence Lab Submission Markdown"
-author: "<Specify your name here>"
-date: "<Specify the date when you submitted the lab>"
+author: "<Challengers>"
+date: "<22/09/2023>"
 output:
   github_document: 
     toc: yes
