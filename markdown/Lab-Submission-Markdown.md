@@ -28,7 +28,7 @@ Business Intelligence Lab Submission Markdown
 
 |                                                   |                                                                                                          |
 |---------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| **Student ID Numbers and Names of Group Members** | 124255 Natasha Wairimu Gichira, 124562 Gitonga Ryan Munene, 118211 Fredrick Koech, 124422 Dennis Muriuki |
+| **Student ID Numbers and Names of Group Members** | 124255 Natasha Wairimu Gichira, 124562 Gitonga Ryan Munene, 118211 Fredrick Koech, 124422 Dennis Muriuki, 120415 Emmanuel Agre|
 | **BBIT 4.2 Group**                                | C                                                                                                        |
 | **Course Code**                                   | BBT4206                                                                                                  |
 | **Course Name**                                   | Business Intelligence II                                                                                 |
